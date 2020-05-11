@@ -1,7 +1,7 @@
 <img src="https://github.com/ppc-ntu-khpi/UML-Starter/blob/master/other/UML-Java.png" width="100%"/>
 
 # Практична робота "Проектування ієрархії класів. Використання UML"
-<img src="https://github.com/ppc-ntu-kpi/uml-java-35-innaroshchepa/master/other/Distance Learning.png" widht="100"/>
+<img src="https://github.com/ppc-ntu-kpi/uml-java-35-innaroshchepa/blob/master/other/Distance Learning.png" widht="100"/>
 
 ## В рамках практичної роботи було зроблено наступне:
 1. проаналізовано предметну область завдання, яке обрала.
