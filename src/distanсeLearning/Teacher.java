@@ -1,4 +1,4 @@
-package distanseLearning;
+package distanсeLearning;
 
 public class Teacher {
 
